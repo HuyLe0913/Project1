@@ -5,6 +5,7 @@
 - Link: Click [here](https://ctt.hust.edu.vn/)
 - Image: ![Example Image](https://ctt.hust.edu.vn/)
 - Sample code: `print("Hello World")`
-- Table: | Column 1 | Column 2 | Column 3 | 
-         | :----- | :---------- | :-------------- | 
-         | B      | C           | A               | 
+- Table:
+  | Column 1 | Column 2 | Column 3 | 
+  | :----- | :---------- | :-------------- | 
+  | B      | C           | A               | 
